@@ -37,11 +37,12 @@
     "access": "public"
   },
   "devDependencies": {
-    "@rbxts/compiler-types": "^2.2.0-types.0"
+    "@rbxts/compiler-types": "^2.2.0-types.0",
+    "@rbxts/types": "^1.0.813"
   },
   "dependencies": {
     "@rbxts/flipper": "^2.0.1",
     "@rbxts/luau-polyfill-internal": "^1.2.3-ts.0",
-    "@rbxts/roact": "npm:@rbxts/react-ts@^1.0.1"
+    "@rbxts/react": "^17.2.1"
   }
 }
